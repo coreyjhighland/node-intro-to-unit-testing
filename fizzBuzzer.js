@@ -14,5 +14,3 @@ module.exports = function(num) {
     return num;
   }
 };
-
-module.exports = fizzBuzzer;
